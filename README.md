@@ -1,7 +1,8 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Rahel,+Seyum;&App+Development+at+Year+Up;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Rahel,+Seyum;&center=true&size=30">
+     <img src="https://readme-typing-svg.herokuapp.com/?lines=App+Development+at+Year+Up;&center=true&size=30">
   </a>
   <p align="center">
   <a href="https://reactjs.org/" target="_blank"><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /></a>
