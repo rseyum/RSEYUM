@@ -1,16 +1,21 @@
-### Hi there 👋
+<!-- <p align="left">  <img alt="DanielHagos" src="https://media-exp1.licdn.com/dms/image/C4E03AQF233zzv2qccg/profile-displayphoto-shrink_800_800/0/1630538297303?e=1635984000&v=beta&t=i9NpVEcKAO02qIJQwH0HIRyZNBlTH7xYtd-QotWsTBE" width="150" height="150" /></p> -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Rahel,+Seyum;Application Development at Year UP;&center=true&size=30">
+  </a>
+  <p align="center">
+  <a href="https://reactjs.org/" target="_blank"><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
+   <a href="https://html.spec.whatwg.org/" target="_blank"><img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
+   <a href="https://nodejs.org/en/" target="_blank"> <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></a>
+</p>
+</h1>
 
-<!--
-**rseyum/RSEYUM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<ul><li><b>Location:</b>Seattle, WA</li> 
+  <li><b>Phone:</b>(206)-483-6995</li> 
+  <li><b>Email:</b>rseyum@sea.yearup.org</li>
+  <li><b>Github:</b>https://github.com/rseyum</li>
+  <!--<li><b>LinkedIn:</b>https://www.linkedin.com/in/rahel-seyum-b21b9a1b9/</li>-->
+    </ul>
+    </p>
