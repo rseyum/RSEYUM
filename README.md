@@ -1,4 +1,4 @@
-
+  ![rech](https://user-images.githubusercontent.com/103169939/164877305-70f7d642-cc2d-4ea9-849e-9b5852d875cb.jpg)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Rahel,+Seyum;&center=true&size=30">
