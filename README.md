@@ -13,7 +13,6 @@
 
 <p align="left">
 <ul><li><b>Location:</b>Seattle, WA</li> 
-  <li><b>Phone:</b>(206)-483-6995</li> 
   <li><b>Email:</b>rseyum@sea.yearup.org</li>
   <li><b>Github:</b>https://github.com/rseyum</li>
   <!--<li><b>LinkedIn:</b>https://www.linkedin.com/in/rahel-seyum-b21b9a1b9/</li>-->
