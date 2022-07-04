@@ -23,5 +23,5 @@ Since I was young, I have always deconstructed every toy I had to figure out how
 The technique for problem solving, analyzing, and breaking down the problem into components is similar in hardware and software. It was when I pressed the play button on my first JavaScript tutorial on Scrimba.com, that the spark I'd been missing ignited. I have been on my way to my dream destination on the main highway ever since.
 Front-end web programming appeals to all my interests; it combines creativity and problem solving, allowing me to break the code better. I enjoy using responsive design ideas and seeing how my web functions. Learning new skills and programming languages, as well as problem-solving are among my talents.
 We, as humans, become bored with routine tasks. We frequently hunt for new and exciting things to do to break it. Hobbies are the most effective technique to divert attention while working. As a hobby, I educate children in a small community and like seeing them grow in love, knowledge, and discipline. My skills include. JavaScript and ReactJS, Redux, Git, GitHub.
-Please feel free to connect. I'm always ready for a lively discussion, collaboration, or knowledge exchange.nge.
+Please feel free to connect. I'm always ready for a lively discussion, collaboration, or knowledge exchange.
     </p>
